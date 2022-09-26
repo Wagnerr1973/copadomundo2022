@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Copadomundo</title>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/grid.css">
+        <link rel="stylesheet" href="css/index.css">
+        <link rel="stylesheet" href="css/estadios.css">
+      </head>
+      
+<body>
+    <header class="header">
+        <div class="container">
+          <a href="" class="grid-2">
+            <img src="img/bola2.png" width="70" alt="bola2">
+            <nav class="header_menu">
+        </div>
+      </header>
+      <section class="estadios">
+     <img src="img/estadio974.jpg" width="500" height="500">
+    <h1>Estádio 974</h1>
+    <h3>Inovação no centro de tudo</h3>
+    <h3>Ano de Inauguração</h3>
+    <p>2018</p>
+    <h3>Localização</h3>
+    <p>Ras Bu Abboud, 10km a leste do centro de Doha</p>
+    <h3>Capacidade</h3>
+    <p>40.000</p>
+    <div>
+        <table style="text-align: center" border="1" style = "width:25%;">
+            <tr>
+                <th colspan= "7"> Estádio 974 </th>
+            </tr>        
+            <tr> 
+                <th>Data</th>
+                <th>Hora local</th>
+                <th>1ª equipe</th>
+                <th>2ª equipe</th>
+                <th>Grupo</th>
+            </tr>
+            <tr>
+                <td>22 de novembro</td>
+                <td>19:00</td>
+                <td>México</td>
+                <td>Polônia</td>
+                <td>Grupo C</td>
+            </tr>
+            <tr>
+                <td>24 de novembro</td>
+                <td>19:00</td>
+                <td>Portugal</td>
+                <td>Gana</td>
+                <td>Grupo H</td>
+            </tr>
+            <tr>
+                <td>26 de novembro</td>
+                <td>19:00</td>
+                <td>França</td>
+                <td>Dinamarca</td>
+                <td>Grupo D</td>
+            </tr>
+            <tr>
+                <td>28 de novembro</td>
+                <td>19:00</td>
+                <td>Brasil</td>
+                <td>Suíça</td>
+                <td>Grupo G</td>
+            </tr>
+            <tr>
+                <td>30 de novembro</td>
+                <td>22:00</td>
+                <td>Polônia</td>
+                <td>Argentina</td>
+                <td>Grupo C</td>
+            </tr>
+            <tr>
+                <td>2 de dezembro</td>
+                <td>22:00</td>
+                <td>Sérvia</td>
+                <td>Suíça</td>
+                <td>Grupo G</td>
+            </tr>
+        </table>
+    </div>
+<br>
+<br>
+<img src="img/estadioalbayt.jpg" width="500" height="500">
+    <h1>Estádio Al Bayt</h1>
+    <h3>Aproveite o mais quente dos árabes</h3>
+    <h3>Ano de Inauguração</h3>
+    <p>2021</p>
+    <h3>Localização</h3>
+    <p>Al Khor City, 35km ao norte de Doha</p>
+    <h3>Capacidade</h3>
+    <p>60.000</p>
+    <div>
+    <table style="text-align: center" border="1" style = "width:25%;">
+        <tr>
+            <th colspan= "7"> Estádio Al Bayt </th>
+        </tr>        
+        <tr> 
+            <th>Data</th>
+            <th>Hora local</th>
+            <th>1ª equipe</th>
+            <th>2ª equipe</th>
+            <th>Grupo</th>
+        </tr>
+        <tr>
+            <td>20 de novembro</td>
+            <td>19:00</td>
+            <td>Catar</td>
+            <td>Equador</td>
+            <td>Grupo A</td>
+        </tr>
+        <tr>
+            <td>23 de novembro</td>
+            <td>13:00</td>
+            <td>Marrocos</td>
+            <td>Croácia</td>
+            <td>Grupo F</td>
+        </tr>
+        <tr>
+            <td>25 de novembro</td>
+            <td>22:00</td>
+            <td>Inglaterra</td>
+            <td>Estados Unidos</td>
+            <td>Grupo B</td>
+        </tr>
+        <tr>
+            <td>27 de novembro</td>
+            <td>22:00</td>
+            <td>Espanha</td>
+            <td>Alemanha</td>
+            <td>Grupo E</td>
+        </tr>
+        <tr>
+            <td>29 de novembro</td>
+            <td>18:00</td>
+            <td>Paises Baixos</td>
+            <td>Catar</td>
+            <td>Grupo A</td>
+        </tr>
+    </div>
+    </table>
+    <br>
+    <br>    
+    <table>
+    <img src="img/estadiolusail.jpg" width="500" height="500">
+    <h1>Estádio Lusail</h1>
+    <h3>Vivo com herança, um ícone para o futuro.</h3>
+    <h3>Ano de Inauguração</h3>
+    <p>2021</p>
+    <h3>Localização</h3>
+    <p>Lusail City, 20km north of central Doha</p>
+    <h3>Capacidade</h3>
+    <p>80.000</p>
+    <div>
+    <table style="text-align: center" border="1" style = "width:25%;">
+        <tr>
+            <th colspan= "7"> Estádio Lusail </th>
+        </tr>        
+        <tr> 
+            <th>Data</th>
+            <th>Hora local</th>
+            <th>1ª equipe</th>
+            <th>2ª equipe</th>
+            <th>Grupo</th>
+        </tr>
+        <tr>
+            <td>22 de novembro</td>
+            <td>13:00</td>
+            <td>Argentina</td>
+            <td>Arábia Saudita</td>
+            <td>Grupo C</td>
+        </tr>
+        <tr>
+            <td>24 de novembro</td>
+            <td>22:00</td>
+            <td>Brasil</td>
+            <td>Sérvia</td>
+            <td>Grupo G</td>
+        </tr>
+        <tr>
+            <td>26 de novembro</td>
+            <td>22:00</td>
+            <td>Argentina</td>
+            <td>México</td>
+            <td>Grupo C</td>
+        </tr>
+        <tr>
+            <td>28 de novembro</td>
+            <td>22:00</td>
+            <td>Portugal</td>
+            <td>Uruguai</td>
+            <td>Grupo H</td>
+        </tr>
+        <tr>
+            <td>30 de novembro</td>
+            <td>22:00</td>
+            <td>Arábia Saudita</td>
+            <td>México</td>
+            <td>Grupo C</td>
+        </tr>
+        <tr>
+            <td>2 de dezembro</td>
+            <td>22:00</td>
+            <td>Camarões</td>
+            <td>Brasil</td>
+            <td>Grupo G</td>
+        </tr>
+    </table>
+    </div>
+    <br>
+    <br>
+    <table>
+        <img src="img/estadiobinali.jpg" width="500" height="500">
+        <h1>Estádio Ahmad Bin Ali</h1>
+        <h3>Onde as histórias do deserto se desenrolam.</h3>
+        <h3>Ano de Inauguração</h3>
+        <p>2003</p>
+        <h3>Localização</h3>
+        <p>um Al Afaei, 20km a oeste do centro de Doha</p>
+        <h3>Capacidade</h3>
+        <p>40.000</p>
+        <div>
+        <table style="text-align: center" border="1" style = "width:25%;">
+            <tr>
+                <th colspan= "7"> Estádio Ahmad Bin Ali </th>
+            </tr>        
+            <tr> 
+                <th>Data</th>
+                <th>Hora local</th>
+                <th>1ª equipe</th>
+                <th>2ª equipe</th>
+                <th>Grupo</th>
+            </tr>
+            <tr>
+                <td>21 de novembro</td>
+                <td>22:00</td>
+                <td>Estados Unidos</td>
+                <td>País de Gales</td>
+                <td>Grupo B</td>
+            </tr>
+            <tr>
+                <td>23 de novembro</td>
+                <td>22:00</td>
+                <td>Bélgica</td>
+                <td>Canadá</td>
+                <td>Grupo F</td>
+            </tr>
+            <tr>
+                <td>25 de novembro</td>
+                <td>13:00</td>
+                <td>País de Gales</td>
+                <td>Irã</td>
+                <td>Grupo B</td>
+            </tr>
+            <tr>
+                <td>27 de novembro</td>
+                <td>13:00</td>
+                <td>Japão</td>
+                <td>Costa Rica</td>
+                <td>Grupo E</td>
+            </tr>
+            <tr>
+                <td>29 de novembro</td>
+                <td>22:00</td>
+                <td>País de Gales</td>
+                <td>Inglaterra</td>
+                <td>Grupo B</td>
+            </tr>
+            <tr>
+                <td>1 de dezembro</td>
+                <td>18:00</td>
+                <td>Croácia</td>
+                <td>Bélgica</td>
+                <td>Grupo F</td>
+            </tr>
+        </table>
+        </div>
+    <br>
+    <br>
+    <table> 
+    <img src="img/estadioaljanoub.jpg" width="500" height="500">
+        <h1>Estádio Al Janoub</h1>
+        <h3>Veja o futebol navegar em uma nova era.</h3>
+        <h3>Ano de Inauguração</h3>
+        <p>2019</p>
+        <h3>Localização</h3>
+        <p>Al Wakrah, 22km ao sul do centro de Doha</p>
+        <h3>Capacidade</h3>
+        <p>40.000</p>
+        <div>
+        <table style="text-align: center" border="1" style = "width:25%;">
+            <tr>
+                <th colspan= "7"> Estádio Al Janoub </th>
+            </tr>        
+            <tr> 
+                <th>Data</th>
+                <th>Hora local</th>
+                <th>1ª equipe</th>
+                <th>2ª equipe</th>
+                <th>Grupo</th>
+            </tr>
+            <tr>
+                <td>22 de novembro</td>
+                <td>13:00</td>
+                <td>Suíça</td>
+                <td>Camarões</td>
+                <td>Grupo G</td>
+            </tr>
+            <tr>
+                <td>28 de novembro</td>
+                <td>13:00</td>
+                <td>Camarões</td>
+                <td>Sérvia</td>
+                <td>Grupo G</td>
+            </tr>                   
+            <tr>
+                <td>2 de dezembro</td>
+                <td>18:00</td>
+                <td>Gana</td>
+                <td>Paraguai</td>
+                <td>Grupo H</td>
+            </tr>
+        </table>
+        </div>
+    <br>
+    <br>   
+    <table> 
+        <img src="img/estadioalthumana.jpg" width="500" height="500">
+            <h1>Estádio Al Thumama</h1>
+            <h3>Um local repleto de cultura e tradição.</h3>
+            <h3>Ano de Inauguração</h3>
+            <p>2021</p>
+            <h3>Localização</h3>
+            <p>Estádio Al Thumama, 12km ao sul do centro de Doha</p>
+            <h3>Capacidade</h3>
+            <p>40.000</p>
+            <div>
+            <table style="text-align: center" border="1" style = "width:25%;">
+                <tr>
+                    <th colspan= "7"> Estádio Al Thumama </th>
+                </tr>        
+                <tr> 
+                    <th>Data</th>
+                    <th>Hora local</th>
+                    <th>1ª equipe</th>
+                    <th>2ª equipe</th>
+                    <th>Grupo</th>
+                </tr>
+                <tr>
+                    <td>21 de novembro</td>
+                    <td>19:00</td>
+                    <td>Senegal</td>
+                    <td>Países Baixos</td>
+                    <td>Grupo A</td>
+                </tr>
+                <tr>
+                    <td>23 de novembro</td>
+                    <td>19:00</td>
+                    <td>Espanha</td>
+                    <td>Costa Rica</td>
+                    <td>Grupo E</td>
+                </tr>  
+                <tr>
+                    <td>25 de novembro</td>
+                    <td>16:00</td>
+                    <td>Catar</td>
+                    <td>Senegal</td>
+                    <td>Grupo A</td>
+                </tr>
+                <tr>
+                    <td>27 de novembro</td>
+                    <td>16:00</td>
+                    <td>Bélgica</td>
+                    <td>Marrocos</td>
+                    <td>Grupo F</td>
+                </tr>  
+                <tr>
+                    <td>29 de novembro</td>
+                    <td>22:00</td>
+                    <td>Irã</td>
+                    <td>Estados Unidos</td>
+                    <td>Grupo B</td>
+                </tr>  
+                <tr>
+                    <td>1 de dezembro</td>
+                    <td>18:00</td>
+                    <td>Canadá</td>
+                    <td>Marrocos</td>
+                    <td>Grupo F</td>
+                </tr>
+            </table>
+            </div> 
+            <br>
+    <br>   
+    <table> 
+        <img src="img/estadioalrayyan.jpg" width="500" height="500">
+            <h1>Estádio Education City</h1>
+            <h3>Uma joia cintilante de inspiração.</h3>
+            <h3>Ano de Inauguração</h3>
+            <p>2020</p>
+            <h3>Localização</h3>
+            <p>Al Rayyan, 7km a noroeste do centro de Doha</p>
+            <h3>Capacidade</h3>
+            <p>40.000</p>
+            <div>
+            <table style="text-align: center" border="1" style = "width:25%;">
+                <tr>
+                    <th colspan= "7"> Estádio Education City </th>
+                </tr>        
+                <tr> 
+                    <th>Data</th>
+                    <th>Hora local</th>
+                    <th>1ª equipe</th>
+                    <th>2ª equipe</th>
+                    <th>Grupo</th>
+                </tr>
+                <tr>
+                    <td>22 de novembro</td>
+                    <td>16:00</td>
+                    <td>Dinamarca</td>
+                    <td>Tunísia</td>
+                    <td>Grupo D</td>
+                </tr>
+                <tr>
+                    <td>24 de novembro</td>
+                    <td>16:00</td>
+                    <td>Uruguai</td>
+                    <td>Coréia do Sul</td>
+                    <td>Grupo H</td>
+                </tr>  
+                <tr>
+                    <td>26 de novembro</td>
+                    <td>16:00</td>
+                    <td>Polônia</td>
+                    <td>Arábia Saudita</td>
+                    <td>Grupo C</td>
+                </tr>
+                <tr>
+                    <td>28 de novembro</td>
+                    <td>16:00</td>
+                    <td>Coréia do Sul</td>
+                    <td>Gana</td>
+                    <td>Grupo H</td>
+                </tr>  
+                <tr>
+                    <td>30 de novembro</td>
+                    <td>18:00</td>
+                    <td>Tunísia</td>
+                    <td>França</td>
+                    <td>Grupo D</td>
+                </tr>  
+                <tr>
+                    <td>2 de dezembro</td>
+                    <td>18:00</td>
+                    <td>Coréia do Sul</td>
+                    <td>Portugal</td>
+                    <td>Grupo H</td>
+                </tr>
+            </table>
+            </div> 
+        
+            <br>
+            <br>
+            <table> 
+                <img src="img/estadiokhalifa.jpg" width="500" height="500">
+                    <h1>Estádio Internacional Khalifa</h1>
+                    <h3>Uma lenda esportiva reenergizada.</h3>
+                    <h3>Ano de Inauguração</h3>
+                    <p>2020</p>
+                    <h3>Localização</h3>
+                    <p>Aspire, 5km a oeste do centro de Doha</p>
+                    <h3>Capacidade</h3>
+                    <p>40.000</p>
+                    <div>
+                    <table style="text-align: center" border="1" style = "width:25%;">
+                        <tr>
+                            <th colspan= "7"> Estádio Internacional Khalifa </th>
+                        </tr>        
+                        <tr> 
+                            <th>Data</th>
+                            <th>Hora local</th>
+                            <th>1ª equipe</th>
+                            <th>2ª equipe</th>
+                            <th>Grupo</th>
+                        </tr>
+                        <tr>
+                            <td>21 de novembro</td>
+                            <td>16:00</td>
+                            <td>Inglaterra</td>
+                            <td>Irã</td>
+                            <td>Grupo B</td>
+                        </tr>
+                        <tr>
+                            <td>23 de novembro</td>
+                            <td>16:00</td>
+                            <td>Alemanha</td>
+                            <td>Japão</td>
+                            <td>Grupo E</td>
+                        </tr>  
+                        <tr>
+                            <td>25 de novembro</td>
+                            <td>19:00</td>
+                            <td>Países Baixos</td>
+                            <td>Equador</td>
+                            <td>Grupo A</td>
+                        </tr>
+                        <tr>
+                            <td>27 de novembro</td>
+                            <td>19:00</td>
+                            <td>Croácia</td>
+                            <td>Canadá</td>
+                            <td>Grupo F</td>
+                        </tr>  
+                        <tr>
+                            <td>29 de novembro</td>
+                            <td>18:00</td>
+                            <td>Equador</td>
+                            <td>Senegal</td>
+                            <td>Grupo A</td>
+                        </tr>  
+                        <tr>
+                            <td>1 de dezembro</td>
+                            <td>22:00</td>
+                            <td>Japão</td>
+                            <td>Espanha</td>
+                            <td>Grupo E</td>
+                        </tr>
+                    </table>
+                    </div>
+                </section>
+</body>
+</html>
+
