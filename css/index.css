@@ -76,9 +76,9 @@ body {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 25px;
   font-weight: bolder;
+  text-align: left;
   text-transform: uppercase;
-  margin-top: 40px;
-  margin-right: 100px;
+  margin-bottom: 20px;
 }
 
 .imagem01 {
@@ -215,3 +215,4 @@ body {
   font-size: 20px;
   padding: 10px;
 }
+
