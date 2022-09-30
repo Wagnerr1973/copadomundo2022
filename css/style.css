@@ -1,0 +1,297 @@
+/*body*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  align-items: center;
+  background: linear-gradient(to right, #020f2a, #0f2027);
+  color: white;
+}
+
+/*banner*/
+.banner {
+  width: 100%;
+  height: 600px;
+  margin-top: 7.5%;
+  background: url("../img/copadomundo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.botao {
+  width: 200px;
+  text-align: center;
+  padding: 10px 32px;
+  text-decoration: none;
+  font-size: 20px;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 480px;
+  transition-duration: 0.4s;
+  background: linear-gradient(to right, #0850eb, #0c1417);
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+  border-radius: 20px;
+}
+.btn:hover {
+  background: linear-gradient(to right, #0c1417, #0850eb);
+}
+
+/*header*/
+header {
+  background: linear-gradient(to right, #960b32, #2c000f);
+  box-sizing: content-box;
+  margin-bottom: 30px;
+  position: fixed;
+  top: 0px;
+}
+
+.menu li a {
+  border-radius: 10px;
+  color: white;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.menu li a:hover {
+  background: linear-gradient(to right, #960b32, #2c000f);
+}
+
+.header nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-links li a,
+.dropdown-content a {
+  font-family: rift, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.nav-links li {
+  display: inline-block;
+  margin: 0px 15px;
+}
+
+/*logo*/
+.logo {
+  width: 11%;
+  margin-right: 500px;
+  padding: 15px;
+}
+
+/*countdown*/
+.countdown {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(to right, #8f0f36, #0c1417);
+  margin-top: 5px;
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.text {
+  font-weight: bold;
+  line-height: 1rem;
+  margin: 1rem 1rem;
+}
+
+/*main*/
+main {
+  margin-top: 20px;
+}
+
+.main-pg-default01 {
+  margin: 15px;
+  width: 1200px;
+}
+.p01 {
+  text-align: justify;
+  width: 500px;
+  float: left;
+  margin-right: 15px;
+  border-radius: 10px;
+}
+
+.main-pg-default02 {
+  margin: 15px;
+  width: 1200px;
+}
+.p02 {
+  text-align: justify;
+  width: 500px;
+  float: right;
+  margin-left: 15px;
+  border-radius: 10px;
+}
+
+/*seleções*/
+.selecoes {
+  margin-top: 110px;
+}
+.h1-sel {
+  text-align: center;
+}
+
+.p-sel {
+  margin-left: 15px;
+}
+
+.h3-sel-Q {
+  margin-left: 10px;
+}
+
+.tec-imgs-Q {
+  width: 500px;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+.h3-sel-A {
+  margin-left: 800px;
+}
+
+.tec-imgs-A {
+  width: 500px;
+  margin-left: 800px;
+  border-radius: 10px;
+}
+.h3-sel-B {
+  margin-left: 400px;
+}
+
+.tec-imgs-B {
+  width: 500px;
+  margin-left: 400px;
+  border-radius: 10px;
+}
+.h3-sel-E {
+  margin-left: 700px;
+}
+
+.tec-imgs-E {
+  width: 500px;
+  margin-left: 700px;
+  border-radius: 10px;
+}
+.h3-sel-I {
+  margin-left: 200px;
+}
+
+.tec-imgs-I {
+  width: 500px;
+  margin-left: 200px;
+  border-radius: 10px;
+}
+.h3-sel-M {
+  margin-left: 200px;
+}
+
+.tec-imgs-M {
+  width: 500px;
+  margin-left: 200px;
+  border-radius: 10px;
+}
+
+.h3-sel-H {
+  margin-left: 600px;
+}
+
+.tec-imgs-H {
+  width: 500px;
+  margin-left: 600px;
+  border-radius: 10px;
+}
+
+.h3-sel-P {
+  margin-left: 300px;
+}
+
+.tec-imgs-P {
+  width: 500px;
+  margin-left: 300px;
+  border-radius: 10px;
+}
+/*estadios*/
+.estadios {
+  margin-top: 110px;
+}
+.h1-sel-Q {
+  text-align: center;
+}
+
+.p-sel {
+  margin-left: 15px;
+}
+.estadios-img {
+  width: 800px;
+  margin-left: 400px;
+  border-radius: 10px;
+}
+
+/*grupos */
+.grupos {
+  margin-top: 110px;
+}
+#grupos {
+  width: 100%;
+  border-radius: 10px;
+  text-align: center;
+  border-collapse: collapse;
+}
+#grupos th,
+td {
+  padding: 5px;
+}
+#grupos th {
+  font-weight: 700;
+  font-size: 22px;
+  font-style: normal;
+}
+#grupos td {
+  font-weight: 300;
+  font-size: 20px;
+  font-style: normal;
+  background: linear-gradient(to right, #960b32, #2c000f);
+}
+
+.listgrupo {
+  list-style-type: none;
+}
+
+.listgrupo ul li {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: lighter;
+}
+/*footer */
+footer {
+  background: linear-gradient(to right, #960b32, #2c000f);
+  margin: 0 auto;
+  align-content: left;
+  text-align: center;
+  padding: 20px;
+}
+
+.footer {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+#senac-logo-footer {
+  padding: 9px;
+  width: 35%;
+}
